@@ -13,6 +13,14 @@ It consists of 4 color coded card types:
 3. Wild Cards: These introduce an element of spontaneity and choice. They allow partners to tailor the experience to their current needs or desires, making the game more flexible and personalized.
 4. Scenario Cards: These cards simulate real-life situations that could lead to misunderstandings or conflicts. They give partners a safe space to discuss how they might feel or react in these situations, promoting empathy, problem-solving, and conflict resolution skills.
 
+## How to use
+
+- Download the files from the [exported](exported) folder.
+- Print the cards on 64mm x 88mm Cards with rounded corners.
+- Play the cards according to the instructions below.
+
+
+
 ## Playing Instructions
 
 - At the beginning of the game, the cards are shuffled and 4 cards are given to each player face down.
@@ -25,3 +33,4 @@ It consists of 4 color coded card types:
 - If the playing partner agrees to comply with a wildcard, the player gets 5 points, else the player gets 2 points.
 - After playing each card, the player should pick another card from the suit of cards left to return their cards to being 4.
 - The game ends when all cards are exhausted with both the suit an the players.
+
